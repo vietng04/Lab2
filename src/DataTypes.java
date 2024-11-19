@@ -11,4 +11,7 @@ public class DataTypes {
         }
         return s;
     }
+
+    public void getGame() {
+    }
 }
