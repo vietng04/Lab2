@@ -9,9 +9,6 @@ public class DataTypes {
         for (int x : numbers) {
             s += x;
         }
-        return s;
-    }
-
-    public void getGame() {
+        return s + 1;
     }
 }
